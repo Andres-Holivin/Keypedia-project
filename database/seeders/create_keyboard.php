@@ -32,7 +32,7 @@ class create_keyboard extends Seeder
                 - Floating Key Design<br>
                 - Braided Cable<br>
                 - Cable Management",
-            'image'=>'storage/keyboard2.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925180/Keypedia/keyboard2_pyjrjv.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -46,7 +46,7 @@ class create_keyboard extends Seeder
                 - Non Floating Keycaps<br>
                 - All Keys Anti-ghost<br>
                 - High Speed USB gaming grade cable",
-            'image'=>'storage/keyboard3.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925185/Keypedia/keyboard3_bzmqeb.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -66,7 +66,7 @@ class create_keyboard extends Seeder
                     - 2.4 Ghz Wireless<br>
                     - Bluetooth<br>
                     KEYCAPS : Doubleshot ABS",
-            'image'=>'storage/keyboard9.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925194/Keypedia/keyboard9_qjd45p.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -87,7 +87,7 @@ class create_keyboard extends Seeder
                 Dimensi: 361 x 22.5 x 133.5 mm<br>
                 Berat: 950 ± 30 Gram<br>
                 Kompatibilitas: Windows 7 / 8 / 8.1 / 10",
-            'image'=>'storage/keyboard7.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925197/Keypedia/keyboard7_qcatlw.png',
             'category_id'=>'2',
         ]);
         DB::table('keyboard')->insert([
@@ -108,7 +108,7 @@ class create_keyboard extends Seeder
                 - RGB Per-Key<br>
                 - Berat 566gr<br>
                 - Software MK857",
-            'image'=>'storage/keyboard4.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925183/Keypedia/keyboard4_arkiuk.png',
             'category_id'=>'3',
         ]);
         DB::table('keyboard')->insert([
@@ -123,7 +123,7 @@ class create_keyboard extends Seeder
                 Removeable keycap and mechanical switch<br>
                 N-Key rollover<br>
                 Rainbow backlighting",
-            'image'=>'storage/keyboard5.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925185/Keypedia/keyboard5_j164ro.png',
             'category_id'=>'3',
         ]);
         DB::table('keyboard')->insert([
@@ -138,7 +138,7 @@ class create_keyboard extends Seeder
                 - YOUR Keyboard, YOUR Way – Easily replace any switch and create custom layout with a custom feeling.<br>
                 - Small Size, Full Power – 61 keys doesn’t mean cutting corners. MAXFIT has all the power and capability of a full-sized keyboard but makes more room for mouse movement and smaller setups.<br>
                 - Smooth, Slick Movement – Pre-lubed stabilizers for your enjoyment. We’ve heard the demands of gamers for smooth ENTER/BACKSPACE/SHIFT keys, and we’ve got you covered.",
-                'image'=>'storage/keyboard6.png',
+                'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925187/Keypedia/keyboard6_vljpra.png',
             'category_id'=>'3',
         ]);
         DB::table('keyboard')->insert([
@@ -153,7 +153,7 @@ class create_keyboard extends Seeder
                 Removeable keycap and mechanical switch<br>
                 N-Key rollover<br>
                 Rainbow backlighting",
-                'image'=>'storage/keyboard8.png',
+                'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925191/Keypedia/keyboard8_iwxkxz.png',
             'category_id'=>'3',
         ]);
 
@@ -176,7 +176,7 @@ class create_keyboard extends Seeder
                 - Please Follow toko kami agar dapat update produk-produk terbaru<br>
                 - Mohon pengisian alamat diharapkan selengkap2nya di sertakan nomor telepon yang bisa dihubungi agar mempermudah kurir dalam pengantaran paket<br>
                 - Thanks enjoy your shopping",
-            'image'=>'storage/pngfind.com-broken-keyboard-png-6929039.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925196/Keypedia/pngfind.com-broken-keyboard-png-6929039_wuqryt.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -204,7 +204,7 @@ class create_keyboard extends Seeder
             -Size: 435(L)×125(W)×38(H)<br>
             -Wire length: 1.6M<br>
             -Operating system: WIN XP/WIN7/WIN8/WIN10",
-            'image'=>'storage/pngfind.com-carnival-png-2280493.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925197/Keypedia/pngfind.com-carnival-png-2280493_lgpssa.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -238,7 +238,7 @@ class create_keyboard extends Seeder
             Dimensi: 361 x 22.5 x 133.5 mm<br>
             Berat: 950 ± 30 Gram<br>
             Kompatibilitas: Windows 7 / 8 / 8.1 / 10",
-            'image'=>'storage/pngfind.com-claymore-png-4380232.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925199/Keypedia/pngfind.com-claymore-png-4380232_joo50q.png',
             'category_id'=>'2',
         ]);
         DB::table('keyboard')->insert([
@@ -260,7 +260,7 @@ class create_keyboard extends Seeder
             - Intelligence auto sleep mode:Keyboard goes into sleep mode to turn off all LED after 10 minutes of<br>
             idle. Press any key to wake up. Mainframe goes into sleep mode or standby mode, keyboard backlight<br>
             turn off, once restart the computer, keyboard backlight restore to previous setting. Three sets of lights custom mode, users can custom backlit area and color according to his favorite.<br>",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6410654.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925203/Keypedia/pngfind.com-gaming-keyboard-png-6410654_xvxfy4.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -281,7 +281,7 @@ class create_keyboard extends Seeder
             Full-key non-punch design, bid farewell to the trouble of key conflict and jam<br>
             Use Type-C interface, easy to carry<br>
             Thick metal panel, hand feeling and texture coexist, surface matte treatment, stable and durable",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6410834.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925204/Keypedia/pngfind.com-gaming-keyboard-png-6410834_utl3ea.png',
             'category_id'=>'3',
         ]);
         DB::table('keyboard')->insert([
@@ -296,7 +296,7 @@ class create_keyboard extends Seeder
             <br>
             -ALL KEYS ANTI GHOSTING
             Tidak perlu khawatir lagi tidak bisa menekan banyak tombol bersamaan karena MK853 ini sudah dilengkapi ANTI-GHOSTING di seluruh tombol tanpa terkecuali !<br>",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6410847.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925206/Keypedia/pngfind.com-gaming-keyboard-png-6410847_eb1rli.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -310,7 +310,7 @@ class create_keyboard extends Seeder
                 Anti-Ghosting All Keys<br>
                 Size 436(L) x 220(W) x 42(H)mm<br>
                 Weight 1300gr",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6410853.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925216/Keypedia/pngfind.com-gaming-keyboard-png-6410853_krzxay.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -324,7 +324,7 @@ class create_keyboard extends Seeder
                 Anti-Ghosting All Keys<br>
                 Size 436(L) x 220(W) x 42(H)mm<br>
                 Weight 1300gr",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6411437.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925210/Keypedia/pngfind.com-gaming-keyboard-png-6411437_imtqpm.png',
             'category_id'=>'1',
         ]);
         DB::table('keyboard')->insert([
@@ -338,7 +338,7 @@ class create_keyboard extends Seeder
                 Anti-Ghosting All Keys<br>
                 Size 436(L) x 220(W) x 42(H)mm<br>
                 Weight 1300gr",
-            'image'=>'storage/pngfind.com-gaming-keyboard-png-6411536.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925210/Keypedia/pngfind.com-gaming-keyboard-png-6411437_imtqpm.png',
             'category_id'=>'1',
         ]);
 

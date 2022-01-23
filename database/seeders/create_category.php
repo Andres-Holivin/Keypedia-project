@@ -16,15 +16,15 @@ class create_category extends Seeder
     {
         DB::table('category')->insert([
             'name'=>'Keyboard Full Size',
-            'image'=>'storage/keyboard2.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925180/Keypedia/keyboard2_pyjrjv.png',
         ]);
         DB::table('category')->insert([
             'name'=>'Keyboard TKL',
-            'image'=>'storage/keyboard7.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925197/Keypedia/keyboard7_qcatlw.png',
         ]);
         DB::table('category')->insert([
             'name'=>'Keyboard 60%',
-            'image'=>'storage/keyboard4.png',
+            'image'=>'https://res.cloudinary.com/holivin21/image/upload/v1642925183/Keypedia/keyboard4_arkiuk.png',
         ]);
     }
 }
